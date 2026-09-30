@@ -1,8 +1,29 @@
 # Hi, I'm Phillip
 
-I'm a computer science graduate building applications from the things I care about. I'm interested in graduate software engineering roles and enjoy working across interactive interfaces, application logic, and data storage.
+I'm a computer science graduate interested in **graduate software engineering roles**. I build applications around things I care about, working across interactive interfaces, application logic, and data storage.
 
-## Featured project · Gym Paradise
+## Selected Projects
+
+| Project | Experience | Engineering focus |
+| --- | --- | --- |
+| **[Melt](https://github.com/PhillipVedder/melt-portfolio)** | A tactile stock-portfolio sandbox | Decimal accounting, live market data, canvas interaction, browser testing |
+| **[Gym Paradise](https://github.com/PhillipVedder/gym-paradise)** | A customisable 3D gym builder | Spatial validation, camera controls, private storage, save conflicts |
+
+## Melt
+
+**Make portfolio allocation tangible.**
+
+[![Melt's portfolio sandbox with proportional slime holdings and a transfer ticket](https://raw.githubusercontent.com/PhillipVedder/melt-portfolio/main/docs/images/sandbox.png)](https://github.com/PhillipVedder/melt-portfolio)
+
+A working local application built with **TypeScript, React, Canvas 2D, D3 and Node.js**. Real Finnhub quotes drive a virtual-money portfolio: each holding becomes a slime blob sized by its dollar value. Drag between holdings to stage a transfer, review the exact amount, and see the allocation change.
+
+The expressive interface sits on a tested decimal accounting model, with fractional shares, reversible transfers, quote-freshness checks, validated backups, and independent price-shock scenarios. The repository includes deterministic unit and browser tests, accessibility checks, architecture decisions, and an independent code-review record.
+
+**[Explore the repository](https://github.com/PhillipVedder/melt-portfolio)** · [Architecture](https://github.com/PhillipVedder/melt-portfolio/blob/main/docs/ARCHITECTURE.md) · [Run it locally](https://github.com/PhillipVedder/melt-portfolio#quick-start) · [Checks](https://github.com/PhillipVedder/melt-portfolio/actions)
+
+*Paper portfolio only. No real trades or investment advice. Local use requires your own Finnhub key; there is no public shared-key demo.*
+
+## Gym Paradise
 
 **Design a dream gym, customise the space, then step inside it in 3D.**
 
@@ -16,8 +37,12 @@ The engineering work includes validated placement, camera controls, revision-bas
 
 ## What I'm working with
 
-- **Interfaces and graphics:** TypeScript, React, Babylon.js, CSS and touch interaction.
-- **Application engineering:** validation, HTTP APIs, SQL, private storage and concurrency handling.
-- **Development workflow:** Git, automated checks, reproducible setup and documented design decisions.
+- **Interfaces and graphics:** TypeScript, React, Canvas 2D, D3, Babylon.js, responsive CSS and touch interaction.
+- **Application engineering:** decimal accounting, validation, HTTP and streaming APIs, SQL, private storage and concurrency handling.
+- **Development workflow:** GitHub Actions, Vitest, Playwright, accessibility checks, reproducible setup and documented design decisions.
 
-I'm currently improving Gym Paradise, with physical iPhone testing, rendering performance and richer equipment models next on the roadmap. My projects are built iteratively with AI assistance, with the implementation and its limitations documented alongside the code.
+## How I Build
+
+I pair visual experimentation with conventional controls, explicit validation, regression tests, and documented trade-offs. Each featured repository has real screenshots, setup instructions, and a candid account of what is and is not implemented.
+
+My projects are built iteratively with AI assistance. Product direction, implementation, verification, and remaining limitations are documented alongside the code. Current priorities include broader browser and physical-device testing, accessible interactions, and rendering performance.
