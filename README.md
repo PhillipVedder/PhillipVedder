@@ -2,12 +2,7 @@
 
 I'm a computer science graduate interested in **graduate software engineering roles**. I build applications around things I care about, working across interactive interfaces, application logic, and data storage.
 
-## Selected Projects
-
-| Project | Experience | Engineering focus |
-| --- | --- | --- |
-| **[Melt](https://github.com/PhillipVedder/melt-portfolio)** | A tactile stock-portfolio sandbox | Decimal accounting, live market data, canvas interaction, browser testing |
-| **[Gym Paradise](https://github.com/PhillipVedder/gym-paradise)** | A customisable 3D gym builder | Spatial validation, camera controls, private storage, save conflicts |
+**Selected projects:** [Melt · portfolio sandbox](#melt) · [Gym Paradise · 3D gym builder](#gym-paradise)
 
 ## Melt
 
