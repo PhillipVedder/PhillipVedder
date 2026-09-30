@@ -6,7 +6,7 @@ I'm a computer science graduate interested in **graduate software engineering ro
 
 ## Melt
 
-**Make portfolio allocation tangible.**
+**Market Exposure & Learning Tool.** Make portfolio allocation tangible.
 
 [![Melt's portfolio sandbox with proportional slime holdings and a transfer ticket](https://raw.githubusercontent.com/PhillipVedder/melt-portfolio/main/docs/images/sandbox.png)](https://github.com/PhillipVedder/melt-portfolio)
 
